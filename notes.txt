@@ -1,10 +1,18 @@
+
+<--------------------- create Vite + React project and configuirate port --------------------->
+
 use next command to create:
 npm create vite@latest react-jobs-project
 choose React->JavaScript
 
 cd react-jobs-project
-npm install
+add to the file vite.config.js server with port: 3000 to use port 3000.
+
+npm install  - install dependency
+
 npm run dev
+
+<--------------- how to use git --------------------------------------->
 
 git status
 git add
@@ -15,3 +23,19 @@ git log --all --decorate --oneline --graph
 
 git push origin -> github
 git pull <-- github
+
+<--------------- configurate css -------------------------------------->
+delet app.css
+remove all in app.jsx and index.css
+use vite react tailwindcss https://tailwindcss.com/docs/guides/vite
+Install Tailwind CSS:
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+configurate:
+Configure your template paths copy data from site to tailwind.config.js
+add to use Roboto font for the project in the tailwind.config.js file use fontFamily
+add gridTemplateColumns to make left colum 70 right 30 to see tailwind.config.js file
+
+
+
