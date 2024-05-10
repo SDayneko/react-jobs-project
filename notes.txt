@@ -20,9 +20,14 @@ git commit -m "Create react"
 git config --global user.email "XX"
 git config --global user.name "XX"
 git log --all --decorate --oneline --graph
+git raflog
 
 git push origin -> github
 git pull <-- github
+
+git fetch
+git merge origin
+git commit -a -m "Create react" (add and message)
 
 <--------------- configurate css -------------------------------------->
 delet app.css
@@ -33,9 +38,13 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 configurate:
-Configure your template paths copy data from site to tailwind.config.js
+Configure your template paths copy data from website to tailwind.config.js
 add to use Roboto font for the project in the tailwind.config.js file use fontFamily
 add gridTemplateColumns to make left colum 70 right 30 to see tailwind.config.js file
+
+Add the Tailwind directives to your CSS:
+copy from website to index.css
+
 
 
 
