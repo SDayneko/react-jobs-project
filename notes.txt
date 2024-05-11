@@ -54,6 +54,7 @@ git reset --hard <id commit> - back to id commit
 
 git init - initialize the folder for git
 
-
+<------------------install icones --------------------------------------->
+npm i react-icons
 
 
