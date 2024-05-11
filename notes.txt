@@ -45,6 +45,15 @@ add gridTemplateColumns to make left colum 70 right 30 to see tailwind.config.js
 Add the Tailwind directives to your CSS:
 copy from website to index.css
 
+<-------------- git ---------------------------------------------------->
+touch <name file> - create file
+git add <name file> - add file to git index
+git commit -m "<message>" - cleane git index and create commit (generate commit id)
+git add . - add all chenged file
+git reset --hard <id commit> - back to id commit
+
+git init - initialize the folder for git
+
 
 
 
