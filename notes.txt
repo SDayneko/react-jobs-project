@@ -60,5 +60,8 @@ npm i react-icons
 <-----------------multipel pages----------------------------------------->
 npm i react-router-dom
 
+<-----------------------Link--------------------------------------------->
+replace <a> to <Link> for fast update pages
+
 
 
