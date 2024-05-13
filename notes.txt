@@ -63,5 +63,8 @@ npm i react-router-dom
 <-----------------------Link--------------------------------------------->
 replace <a> to <Link> for fast update pages
 
+<----------------------NaveLink------------------------------------------>
+replace <Link> to <NavLink> to show acctive link in NavBar
+
 
 
