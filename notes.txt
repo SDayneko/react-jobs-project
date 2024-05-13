@@ -58,13 +58,11 @@ git init - initialize the folder for git
 npm i react-icons
 
 <-----------------multipel pages----------------------------------------->
-npm i react-router-dom
-
+npm i react-router-dom (Jobs Page Component/Route)
 <-----------------------Link--------------------------------------------->
-replace <a> to <Link> for fast update pages
-
+replace <a> to <Link> (Link Component)
+add Custom 404 Page
 <----------------------NaveLink------------------------------------------>
-replace <Link> to <NavLink> to show acctive link in NavBar
-
-
+replace <Link> to <NavLink> (Active Links With NavLink)
+Conditional Rendering
 
