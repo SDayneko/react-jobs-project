@@ -66,3 +66,8 @@ add Custom 404 Page
 replace <Link> to <NavLink> (Active Links With NavLink)
 Conditional Rendering
 
+<----------------------JSON server--------------------------------------->
+install server:
+npm i -D json-server
+add "server": "json-server --watch src/jobs.json --port 8000" to package.json
+
