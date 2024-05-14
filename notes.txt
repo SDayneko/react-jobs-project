@@ -70,4 +70,22 @@ Conditional Rendering
 install server:
 npm i -D json-server
 add "server": "json-server --watch src/jobs.json --port 8000" to package.json
+npm run server
+update jason file
+update JobListings
+
+<-----------------------install spinner---------------------------------->
+npm i react-spinners
+update JobListings and Spinner files
+
+<-------------------------proxy------------------------------------------->
+add to vite.config.js:
+proxy: {
+      '/api': {
+        target: 'http://localhost:8000',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/api/, '')
+      }
+update JobListings by chenging http://localhost:8000 to /api
+
 
