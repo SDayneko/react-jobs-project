@@ -88,4 +88,10 @@ proxy: {
       }
 update JobListings by chenging http://localhost:8000 to /api
 
+npm run server
+
+<--------------------------Job Page--------------------------------------->
+
+create JobPage.jsx
+use fetch to uploade data from JSON on the page with job position
 
