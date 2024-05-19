@@ -95,3 +95,14 @@ npm run server
 create JobPage.jsx
 use fetch to uploade data from JSON on the page with job position
 
+<--------------------------Toastify--------------------------------------->
+
+npm i react-toastify
+update mainlayout by add:
+  import { ToastContainer } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css'
+
+and in return:
+  <ToastContainer />
+
+
