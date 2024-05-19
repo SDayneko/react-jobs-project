@@ -48,17 +48,17 @@ This project uses JSON-Server for a mock backend, making it easy to test and dev
 
 Run the following command to install the necessary dependencies:
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### Run JSON Server
 
 Start the JSON server to simulate the backend:
 
-\`\`\`bash
+```bash
 npm run server
-\`\`\`
+```
 
 The server will run on [http://localhost:8000](http://localhost:8000).
 
@@ -66,9 +66,9 @@ The server will run on [http://localhost:8000](http://localhost:8000).
 
 Start the React frontend using Vite:
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 The frontend will run on [http://localhost:3000](http://localhost:3000).
 
@@ -76,14 +76,14 @@ The frontend will run on [http://localhost:3000](http://localhost:3000).
 
 Create a production build of the application:
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ### Preview Production Build
 
 Preview the production build locally:
 
-\`\`\`bash
+```bash
 npm run preview
-\`\`\`
+```
