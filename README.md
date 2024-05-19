@@ -6,35 +6,35 @@ React Jobs is a web application designed to connect React developers with potent
 
 ### Homepage
 
-![Homepage](path_to_image/Homepage.png)
+![Homepage](image/Homepage.png)
 
 - Displays a call to action for developers and employers.
 - Features recent job listings with details such as job title, location, and salary range.
 
 ### Browse Jobs
 
-![Browse Jobs](path_to_image/AllJobsPage.png)
+![Browse Jobs](image/AllJobsPage.png)
 
 - Displays all job listings available for browsing.
 - Each listing shows the job title, location, and salary range.
 
 ### Add Job Page
 
-![Add Job](path_to_image/AddJobPage.png)
+![Add Job](image/AddJobPage.png)
 
 - A form for employers to add new job listings.
 - Includes fields for job type, job listing name, description, salary, location, company info, and contact details.
 
 ### Update Job Page
 
-![Update Job](path_to_image/EditJobPage.png)
+![Update Job](image/EditJobPage.png)
 
 - A form similar to the Add Job page, allowing employers to update existing job listings.
 - Pre-filled with the current job details for easy editing.
 
 ### Job Details Page
 
-![Job Details](path_to_image/JobPage.png)
+![Job Details](image/JobPage.png)
 
 - Provides detailed information about a specific job listing.
 - Includes the job description, salary, company info, and contact details.
