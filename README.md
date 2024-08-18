@@ -87,3 +87,7 @@ Preview the production build locally:
 ```bash
 npm run preview
 ```
+
+## Web Development Services
+
+This project is part of the web development services provided by [PVSensors.com](https://pvsensors.com/). We specialize in creating custom web applications, including job boards, e-commerce platforms, and business websites. Visit our website to learn more about our services and how we can help bring your project to life.

@@ -8,7 +8,7 @@ choose React->JavaScript
 cd react-jobs-project
 add to the file vite.config.js server with port: 3000 to use port 3000.
 
-npm install  - install dependency
+npm install - install dependency
 
 npm run dev
 
